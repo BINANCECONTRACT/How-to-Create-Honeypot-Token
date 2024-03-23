@@ -8,4 +8,3 @@ In this guide I explained all step from token creatation to how to lauch on panc
 
 So today, let me introduce you some useful tips on How to Create Your Own Token. Are you ready?
 
-[Only for research and testing, don’t try to scam using this method]
