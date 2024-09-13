@@ -2,9 +2,19 @@
 
 **Step By Step Guide "How to Create Honeypot Token"**
 
-Read Step by step guide for all information and in bsc-code you will find bsc-code.
+Create your own honeypot token using our step to step guide. We are a team of developers engaged in research in this area
 
-In this guide I explained all step from token creatation to how to lauch on pancake swap etc..
+Only for research and testing, don’t try to missuse using this method.
 
-So today, let me introduce you some useful tips on How to Create Your Own honeypot Token. Are you ready?
+Website How to Create Honeypot Token provide valuable resources and guides on create honeypot token and manage tokens effectively offering insights into token deployment, liquidity provision, and safeguarding against potential risks associated with honeypot tokens and similar projects.
+
+Step by Step guide to create honeypot token :- Honeypot Token
+
+Honeypot Token Code :- Honeypot Token Code
+
+How to add or remove liquidity :- Add or Remove Liquidity in Honeypot Tokens
+
+How to attract buyers :- How to attract buyers
+
+My Telegram : https://t.me/rambotalk
 
