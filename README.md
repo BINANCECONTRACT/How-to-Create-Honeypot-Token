@@ -1,4 +1,4 @@
-# How-to-create-BEP20-Token
+# How-to-create-Honeypot-Token
 
 **Step By Step Guide "How to Create Honeypot Token"**
 
